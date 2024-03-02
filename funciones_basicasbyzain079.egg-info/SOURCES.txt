@@ -1,0 +1,11 @@
+setup.py
+funciones_basicasbyzain079/__init__.py
+funciones_basicasbyzain079/resta.py
+funciones_basicasbyzain079/suma.py
+funciones_basicasbyzain079.egg-info/PKG-INFO
+funciones_basicasbyzain079.egg-info/SOURCES.txt
+funciones_basicasbyzain079.egg-info/dependency_links.txt
+funciones_basicasbyzain079.egg-info/top_level.txt
+funciones_basicasbyzain079/extras/__init__.py
+funciones_basicasbyzain079/extras/divide.py
+funciones_basicasbyzain079/extras/multiplica.py
